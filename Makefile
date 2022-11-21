@@ -17,6 +17,7 @@ WEEKLY = weekly_log
 PROJ = document
 TEMPLATE = template
 DECK = presentations
+PYR = pyr.tex
 
 TIMEZ = Pacific/Auckland
 
